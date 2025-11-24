@@ -1,0 +1,13 @@
+{
+  "12345": [
+    {"course": "ALG-101", "grade": 28, "credits": 9},
+    {"course": "PRG-202", "grade": 30, "credits": 6},
+    {"course": "ANA-150", "grade": 24, "credits": 9}
+  ],
+  "54321": [
+    {"course": "ALG-101", "grade": 27, "credits": 9}
+  ],
+  "11223": [
+    {"course": "PRG-202", "grade": 25, "credits": 6}
+  ]
+}

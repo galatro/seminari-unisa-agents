@@ -1,0 +1,20 @@
+{
+  "12345": {
+    "name": "Giovanni Galatro",
+    "degree": "Computer Engineering",
+    "year": 2,
+    "courses": ["ALG-101", "PRG-202", "ANA-150", "NET-220"]
+  },
+  "54321": {
+    "name": "Maria Conti",
+    "degree": "Data Science",
+    "year": 1,
+    "courses": ["ALG-101", "DB-310"]
+  },
+  "11223": {
+    "name": "Luca Esposito",
+    "degree": "Cybersecurity",
+    "year": 3,
+    "courses": ["NET-220", "PRG-202", "DB-310"]
+  }
+}

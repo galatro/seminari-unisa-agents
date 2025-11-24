@@ -1,0 +1,47 @@
+{
+    "ALG-101": [
+        {
+            "exam_id": "ALG20250115W",
+            "date": "2025-01-15",
+            "type": "written"
+        },
+        {
+            "exam_id": "ALG20250220O",
+            "date": "2025-02-20",
+            "type": "oral"
+        }
+    ],
+    "PRG-202": [
+        {
+            "exam_id": "PRG20250122W",
+            "date": "2025-01-22",
+            "type": "written"
+        }
+    ],
+    "ANA-150": [
+        {
+            "exam_id": "ANA20250110W",
+            "date": "2025-01-10",
+            "type": "written"
+        },
+        {
+            "exam_id": "ANA20250305O",
+            "date": "2025-03-05",
+            "type": "oral"
+        }
+    ],
+    "DB-310": [
+        {
+            "exam_id": "DB20250201P",
+            "date": "2025-02-01",
+            "type": "project"
+        }
+    ],
+    "NET-220": [
+        {
+            "exam_id": "NET20250118W",
+            "date": "2025-01-18",
+            "type": "written"
+        }
+    ]
+}

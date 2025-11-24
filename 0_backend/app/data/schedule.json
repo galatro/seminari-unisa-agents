@@ -1,0 +1,18 @@
+{
+  "ALG-101": [
+    {"day": "Monday", "time": "10:00-12:00", "room": "A1"},
+    {"day": "Wednesday", "time": "14:00-16:00", "room": "B3"}
+  ],
+  "PRG-202": [
+    {"day": "Tuesday", "time": "09:00-11:00", "room": "Lab2"}
+  ],
+  "ANA-150": [
+    {"day": "Thursday", "time": "11:00-13:00", "room": "A2"}
+  ],
+  "DB-310": [
+    {"day": "Friday", "time": "14:00-17:00", "room": "C1"}
+  ],
+  "NET-220": [
+    {"day": "Monday", "time": "16:00-18:00", "room": "Lab3"}
+  ]
+}

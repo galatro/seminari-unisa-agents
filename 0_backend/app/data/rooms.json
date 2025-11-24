@@ -1,0 +1,14 @@
+[
+  {"code": "A1", "building": "Ingegneria", "floor": 1, "capacity": 120,
+   "available_slots": ["10:00-12:00", "16:00-18:00", "18:00-20:00"]},
+  {"code": "A2", "building": "Ingegneria", "floor": 1, "capacity": 90,
+   "available_slots": ["11:00-13:00", "15:00-17:00"]},
+  {"code": "B3", "building": "Matematica", "floor": 2, "capacity": 80,
+   "available_slots": ["14:00-16:00", "08:00-10:00"]},
+  {"code": "C1", "building": "Informatica", "floor": 3, "capacity": 150,
+   "available_slots": ["09:00-11:00", "14:00-17:00"]},
+  {"code": "Lab2", "building": "Informatica", "floor": 0, "capacity": 40,
+   "available_slots": ["09:00-11:00", "11:00-13:00", "13:00-15:00"]},
+  {"code": "Lab3", "building": "Informatica", "floor": 0, "capacity": 35,
+   "available_slots": ["16:00-18:00", "18:00-20:00"]}
+]

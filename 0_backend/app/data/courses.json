@@ -1,0 +1,37 @@
+{
+  "ALG-101": {
+    "name": "Algorithms 1",
+    "credits": 9,
+    "semester": 1,
+    "description": "Introduction to algorithm design, complexity, and basic data structures.",
+    "prerequisites": []
+  },
+  "PRG-202": {
+    "name": "Programming 2",
+    "credits": 6,
+    "semester": 2,
+    "description": "Object-oriented programming, unit testing, design patterns.",
+    "prerequisites": ["ALG-101"]
+  },
+  "ANA-150": {
+    "name": "Analysis 2",
+    "credits": 9,
+    "semester": 2,
+    "description": "Advanced calculus: series, integrals, differential equations.",
+    "prerequisites": []
+  },
+  "DB-310": {
+    "name": "Databases",
+    "credits": 9,
+    "semester": 1,
+    "description": "Relational DBMS, SQL, database design.",
+    "prerequisites": ["PRG-202"]
+  },
+  "NET-220": {
+    "name": "Computer Networks",
+    "credits": 6,
+    "semester": 2,
+    "description": "Networking basics, TCP/IP, routing, switching, OSI model.",
+    "prerequisites": []
+  }
+}

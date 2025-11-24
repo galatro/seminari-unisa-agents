@@ -1,0 +1,30 @@
+{
+  "rossi": {
+    "name": "Prof. Mario Rossi",
+    "email": "rossi@uni.it",
+    "office": "Room 34",
+    "hours": "Tue 14:00-16:00",
+    "department": "Mathematics"
+  },
+  "bianchi": {
+    "name": "Prof.ssa Laura Bianchi",
+    "email": "bianchi@uni.it",
+    "office": "Room 12",
+    "hours": "Thu 10:00-12:00",
+    "department": "Computer Science"
+  },
+  "verdi": {
+    "name": "Prof. Luca Verdi",
+    "email": "verdi@uni.it",
+    "office": "Room 22",
+    "hours": "Mon 09:00-11:00",
+    "department": "Engineering"
+  },
+  "neri": {
+    "name": "Prof. Davide Neri",
+    "email": "neri@uni.it",
+    "office": "Room 45",
+    "hours": "Fri 11:00-13:00",
+    "department": "Networking"
+  }
+}
