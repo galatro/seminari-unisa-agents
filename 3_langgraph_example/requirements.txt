@@ -1,0 +1,8 @@
+langchain_ibm>=0.3.18
+ibm-watson-openscale
+python-dotenv>=1.0.1
+langgraph>=0.1.41
+langgraph-checkpoint>=1.0.2
+requests>=2.31.0
+orjson>=3.9.10
+pydantic>=2.6.3
