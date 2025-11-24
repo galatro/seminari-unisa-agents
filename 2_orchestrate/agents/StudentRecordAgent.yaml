@@ -1,0 +1,50 @@
+spec_version: v1
+kind: native
+name: StudentRecordAgent
+display_name: Student Record Agent
+description: |
+  This agent handles all STUDENT-SPECIFIC academic information:
+  - completed exams
+  - available exams
+  - next exam sessions
+  - GPA
+  - booked exams
+  - booking operations
+  - enrolled courses
+  - student personal record
+
+llm: watsonx/meta-llama/llama-3-2-90b-vision-instruct
+style: default
+context_access_enabled: true
+
+instructions: |
+  You are the Student Record Agent.
+  You respond ONLY using the tools provided.
+  Never create or assume information that is not present in the dataset.
+  Always answer in the same language as the user.
+  You must be used for any request involving the academic status of a student.
+
+guidelines:
+- display_name: Student Academic Information
+  condition: >
+    When the user asks about GPA, completed exams, available exams,
+    exam bookings, upcoming exams, or their enrolled courses.
+  action: |
+    Use the appropriate tool to retrieve the student's information.
+
+- display_name: Exam Booking
+  condition: >
+    When the user explicitly asks to book an exam.
+  action: |
+    Use the 'book_exam' tool and answer with confirmation.
+
+collaborators: []
+tools:
+  - get_student_record
+  - get_completed_exams
+  - get_available_exams
+  - get_enrolled_courses
+  - get_student_gpa
+  - book_exam
+  - get_booked_exams
+  - get_next_exams
