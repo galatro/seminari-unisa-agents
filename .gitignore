@@ -175,3 +175,5 @@ cython_debug/
 
 .log
 .vscode/
+
+.DS_Store
