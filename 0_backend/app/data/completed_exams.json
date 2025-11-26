@@ -1,13 +1,122 @@
-{
-  "12345": [
-    {"course": "ALG-101", "grade": 28, "credits": 9},
-    {"course": "PRG-202", "grade": 30, "credits": 6},
-    {"course": "ANA-150", "grade": 24, "credits": 9}
-  ],
-  "54321": [
-    {"course": "ALG-101", "grade": 27, "credits": 9}
-  ],
-  "11223": [
-    {"course": "PRG-202", "grade": 25, "credits": 6}
-  ]
-}
+[
+    {
+        "student_id": "S001",
+        "exam_id": "E002",
+        "date": "2024-07-12",
+        "grade": 30
+    },
+    {
+        "student_id": "S001",
+        "exam_id": "E005",
+        "date": "2024-07-12",
+        "grade": 24
+    },
+    {
+        "student_id": "S002",
+        "exam_id": "E010",
+        "date": "2024-07-12",
+        "grade": 18
+    },
+    {
+        "student_id": "S002",
+        "exam_id": "E016",
+        "date": "2024-07-12",
+        "grade": 27
+    },
+    {
+        "student_id": "S003",
+        "exam_id": "E022",
+        "date": "2024-07-12",
+        "grade": 24
+    },
+    {
+        "student_id": "S003",
+        "exam_id": "E001",
+        "date": "2024-07-12",
+        "grade": 18
+    },
+    {
+        "student_id": "S004",
+        "exam_id": "E028",
+        "date": "2024-07-12",
+        "grade": 30
+    },
+    {
+        "student_id": "S004",
+        "exam_id": "E009",
+        "date": "2024-07-12",
+        "grade": 24
+    },
+    {
+        "student_id": "S005",
+        "exam_id": "E007",
+        "date": "2024-07-12",
+        "grade": 24
+    },
+    {
+        "student_id": "S005",
+        "exam_id": "E014",
+        "date": "2024-07-12",
+        "grade": 27
+    },
+    {
+        "student_id": "S006",
+        "exam_id": "E007",
+        "date": "2024-07-12",
+        "grade": 27
+    },
+    {
+        "student_id": "S006",
+        "exam_id": "E004",
+        "date": "2024-07-12",
+        "grade": 24
+    },
+    {
+        "student_id": "S007",
+        "exam_id": "E004",
+        "date": "2024-07-12",
+        "grade": 18
+    },
+    {
+        "student_id": "S007",
+        "exam_id": "E018",
+        "date": "2024-07-12",
+        "grade": 18
+    },
+    {
+        "student_id": "S008",
+        "exam_id": "E029",
+        "date": "2024-07-12",
+        "grade": 18
+    },
+    {
+        "student_id": "S008",
+        "exam_id": "E009",
+        "date": "2024-07-12",
+        "grade": 27
+    },
+    {
+        "student_id": "S009",
+        "exam_id": "E017",
+        "date": "2024-07-12",
+        "grade": 24
+    },
+    {
+        "student_id": "S009",
+        "exam_id": "E004",
+        "date": "2024-07-12",
+        "grade": 18
+    },
+    {
+        "student_id": "S010",
+        "exam_id": "E024",
+        "date": "2024-07-12",
+        "grade": 24
+    },
+    {
+        "student_id": "S010",
+        "exam_id": "E027",
+        "date": "2024-07-12",
+        "grade": 27
+    }
+]

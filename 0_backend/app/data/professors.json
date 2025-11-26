@@ -1,30 +1,72 @@
-{
-  "rossi": {
-    "name": "Prof. Mario Rossi",
-    "email": "rossi@uni.it",
-    "office": "Room 34",
-    "hours": "Tue 14:00-16:00",
-    "department": "Mathematics"
-  },
-  "bianchi": {
-    "name": "Prof.ssa Laura Bianchi",
-    "email": "bianchi@uni.it",
-    "office": "Room 12",
-    "hours": "Thu 10:00-12:00",
-    "department": "Computer Science"
-  },
-  "verdi": {
-    "name": "Prof. Luca Verdi",
-    "email": "verdi@uni.it",
-    "office": "Room 22",
-    "hours": "Mon 09:00-11:00",
-    "department": "Engineering"
-  },
-  "neri": {
-    "name": "Prof. Davide Neri",
-    "email": "neri@uni.it",
-    "office": "Room 45",
-    "hours": "Fri 11:00-13:00",
-    "department": "Networking"
-  }
-}
+[
+    {
+        "professor_id": "P001",
+        "first_name": "ProfName1",
+        "last_name": "ProfSurname1",
+        "department": "Lettere",
+        "email": "prof1@unisa.it"
+    },
+    {
+        "professor_id": "P002",
+        "first_name": "ProfName2",
+        "last_name": "ProfSurname2",
+        "department": "Informatica",
+        "email": "prof2@unisa.it"
+    },
+    {
+        "professor_id": "P003",
+        "first_name": "ProfName3",
+        "last_name": "ProfSurname3",
+        "department": "Informatica",
+        "email": "prof3@unisa.it"
+    },
+    {
+        "professor_id": "P004",
+        "first_name": "ProfName4",
+        "last_name": "ProfSurname4",
+        "department": "Lettere",
+        "email": "prof4@unisa.it"
+    },
+    {
+        "professor_id": "P005",
+        "first_name": "ProfName5",
+        "last_name": "ProfSurname5",
+        "department": "Lettere",
+        "email": "prof5@unisa.it"
+    },
+    {
+        "professor_id": "P006",
+        "first_name": "ProfName6",
+        "last_name": "ProfSurname6",
+        "department": "Informatica",
+        "email": "prof6@unisa.it"
+    },
+    {
+        "professor_id": "P007",
+        "first_name": "ProfName7",
+        "last_name": "ProfSurname7",
+        "department": "Economia",
+        "email": "prof7@unisa.it"
+    },
+    {
+        "professor_id": "P008",
+        "first_name": "ProfName8",
+        "last_name": "ProfSurname8",
+        "department": "Matematica",
+        "email": "prof8@unisa.it"
+    },
+    {
+        "professor_id": "P009",
+        "first_name": "ProfName9",
+        "last_name": "ProfSurname9",
+        "department": "Informatica",
+        "email": "prof9@unisa.it"
+    },
+    {
+        "professor_id": "P010",
+        "first_name": "ProfName10",
+        "last_name": "ProfSurname10",
+        "department": "Economia",
+        "email": "prof10@unisa.it"
+    }
+]

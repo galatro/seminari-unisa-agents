@@ -1,20 +1,152 @@
-{
-  "12345": {
-    "name": "Giovanni Galatro",
-    "degree": "Computer Engineering",
-    "year": 2,
-    "courses": ["ALG-101", "PRG-202", "ANA-150", "NET-220"]
-  },
-  "54321": {
-    "name": "Maria Conti",
-    "degree": "Data Science",
-    "year": 1,
-    "courses": ["ALG-101", "DB-310"]
-  },
-  "11223": {
-    "name": "Luca Esposito",
-    "degree": "Cybersecurity",
-    "year": 3,
-    "courses": ["NET-220", "PRG-202", "DB-310"]
-  }
-}
+[
+    {
+        "student_id": "S001",
+        "first_name": "StudName1",
+        "last_name": "StudSurname1",
+        "email": "student1@studenti.unisa.it",
+        "year": 1,
+        "courses_enrolled": [
+            "C003",
+            "C019",
+            "C009",
+            "C006",
+            "C008",
+            "C020"
+        ]
+    },
+    {
+        "student_id": "S002",
+        "first_name": "StudName2",
+        "last_name": "StudSurname2",
+        "email": "student2@studenti.unisa.it",
+        "year": 1,
+        "courses_enrolled": [
+            "C008",
+            "C009",
+            "C018",
+            "C006",
+            "C014",
+            "C003"
+        ]
+    },
+    {
+        "student_id": "S003",
+        "first_name": "StudName3",
+        "last_name": "StudSurname3",
+        "email": "student3@studenti.unisa.it",
+        "year": 1,
+        "courses_enrolled": [
+            "C015",
+            "C020",
+            "C005",
+            "C018",
+            "C014",
+            "C001"
+        ]
+    },
+    {
+        "student_id": "S004",
+        "first_name": "StudName4",
+        "last_name": "StudSurname4",
+        "email": "student4@studenti.unisa.it",
+        "year": 1,
+        "courses_enrolled": [
+            "C014",
+            "C006",
+            "C016",
+            "C015",
+            "C018",
+            "C011"
+        ]
+    },
+    {
+        "student_id": "S005",
+        "first_name": "StudName5",
+        "last_name": "StudSurname5",
+        "email": "student5@studenti.unisa.it",
+        "year": 2,
+        "courses_enrolled": [
+            "C019",
+            "C011",
+            "C017",
+            "C016",
+            "C009",
+            "C008"
+        ]
+    },
+    {
+        "student_id": "S006",
+        "first_name": "StudName6",
+        "last_name": "StudSurname6",
+        "email": "student6@studenti.unisa.it",
+        "year": 2,
+        "courses_enrolled": [
+            "C010",
+            "C012",
+            "C001",
+            "C014",
+            "C019",
+            "C006"
+        ]
+    },
+    {
+        "student_id": "S007",
+        "first_name": "StudName7",
+        "last_name": "StudSurname7",
+        "email": "student7@studenti.unisa.it",
+        "year": 1,
+        "courses_enrolled": [
+            "C010",
+            "C013",
+            "C020",
+            "C014",
+            "C015",
+            "C001"
+        ]
+    },
+    {
+        "student_id": "S008",
+        "first_name": "StudName8",
+        "last_name": "StudSurname8",
+        "email": "student8@studenti.unisa.it",
+        "year": 2,
+        "courses_enrolled": [
+            "C003",
+            "C004",
+            "C018",
+            "C019",
+            "C017",
+            "C005"
+        ]
+    },
+    {
+        "student_id": "S009",
+        "first_name": "StudName9",
+        "last_name": "StudSurname9",
+        "email": "student9@studenti.unisa.it",
+        "year": 3,
+        "courses_enrolled": [
+            "C005",
+            "C017",
+            "C009",
+            "C011",
+            "C010",
+            "C003"
+        ]
+    },
+    {
+        "student_id": "S010",
+        "first_name": "StudName10",
+        "last_name": "StudSurname10",
+        "email": "student10@studenti.unisa.it",
+        "year": 1,
+        "courses_enrolled": [
+            "C020",
+            "C008",
+            "C018",
+            "C012",
+            "C010",
+            "C007"
+        ]
+    }
+]

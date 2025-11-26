@@ -1,47 +1,302 @@
-{
-    "ALG-101": [
-        {
-            "exam_id": "ALG20250115W",
-            "date": "2025-01-15",
-            "type": "written"
-        },
-        {
-            "exam_id": "ALG20250220O",
-            "date": "2025-02-20",
-            "type": "oral"
-        }
-    ],
-    "PRG-202": [
-        {
-            "exam_id": "PRG20250122W",
-            "date": "2025-01-22",
-            "type": "written"
-        }
-    ],
-    "ANA-150": [
-        {
-            "exam_id": "ANA20250110W",
-            "date": "2025-01-10",
-            "type": "written"
-        },
-        {
-            "exam_id": "ANA20250305O",
-            "date": "2025-03-05",
-            "type": "oral"
-        }
-    ],
-    "DB-310": [
-        {
-            "exam_id": "DB20250201P",
-            "date": "2025-02-01",
-            "type": "project"
-        }
-    ],
-    "NET-220": [
-        {
-            "exam_id": "NET20250118W",
-            "date": "2025-01-18",
-            "type": "written"
-        }
-    ]
-}
+[
+    {
+        "exam_id": "E001",
+        "course_id": "C013",
+        "professor_id": "P005",
+        "date": "2025-06-24",
+        "time": "9:00",
+        "room_id": "R001",
+        "type": "scritto",
+        "seats": 84
+    },
+    {
+        "exam_id": "E002",
+        "course_id": "C012",
+        "professor_id": "P010",
+        "date": "2025-02-02",
+        "time": "13:00",
+        "room_id": "R008",
+        "type": "scritto",
+        "seats": 84
+    },
+    {
+        "exam_id": "E003",
+        "course_id": "C006",
+        "professor_id": "P007",
+        "date": "2025-01-04",
+        "time": "16:00",
+        "room_id": "R009",
+        "type": "scritto",
+        "seats": 56
+    },
+    {
+        "exam_id": "E004",
+        "course_id": "C006",
+        "professor_id": "P007",
+        "date": "2025-04-19",
+        "time": "13:00",
+        "room_id": "R002",
+        "type": "scritto",
+        "seats": 65
+    },
+    {
+        "exam_id": "E005",
+        "course_id": "C012",
+        "professor_id": "P010",
+        "date": "2025-06-03",
+        "time": "10:00",
+        "room_id": "R006",
+        "type": "orale",
+        "seats": 77
+    },
+    {
+        "exam_id": "E006",
+        "course_id": "C003",
+        "professor_id": "P001",
+        "date": "2025-03-11",
+        "time": "15:00",
+        "room_id": "R007",
+        "type": "scritto",
+        "seats": 108
+    },
+    {
+        "exam_id": "E007",
+        "course_id": "C010",
+        "professor_id": "P008",
+        "date": "2025-03-04",
+        "time": "9:00",
+        "room_id": "R005",
+        "type": "orale",
+        "seats": 65
+    },
+    {
+        "exam_id": "E008",
+        "course_id": "C008",
+        "professor_id": "P009",
+        "date": "2025-02-06",
+        "time": "16:00",
+        "room_id": "R006",
+        "type": "scritto",
+        "seats": 90
+    },
+    {
+        "exam_id": "E009",
+        "course_id": "C009",
+        "professor_id": "P008",
+        "date": "2025-06-18",
+        "time": "12:00",
+        "room_id": "R001",
+        "type": "orale",
+        "seats": 94
+    },
+    {
+        "exam_id": "E010",
+        "course_id": "C011",
+        "professor_id": "P002",
+        "date": "2025-06-08",
+        "time": "12:00",
+        "room_id": "R001",
+        "type": "orale",
+        "seats": 113
+    },
+    {
+        "exam_id": "E011",
+        "course_id": "C011",
+        "professor_id": "P002",
+        "date": "2025-06-07",
+        "time": "9:00",
+        "room_id": "R004",
+        "type": "scritto",
+        "seats": 79
+    },
+    {
+        "exam_id": "E012",
+        "course_id": "C006",
+        "professor_id": "P007",
+        "date": "2025-04-07",
+        "time": "9:00",
+        "room_id": "R005",
+        "type": "orale",
+        "seats": 102
+    },
+    {
+        "exam_id": "E013",
+        "course_id": "C009",
+        "professor_id": "P008",
+        "date": "2025-06-21",
+        "time": "12:00",
+        "room_id": "R005",
+        "type": "scritto",
+        "seats": 81
+    },
+    {
+        "exam_id": "E014",
+        "course_id": "C001",
+        "professor_id": "P001",
+        "date": "2025-01-10",
+        "time": "16:00",
+        "room_id": "R005",
+        "type": "orale",
+        "seats": 120
+    },
+    {
+        "exam_id": "E015",
+        "course_id": "C017",
+        "professor_id": "P001",
+        "date": "2025-02-19",
+        "time": "12:00",
+        "room_id": "R008",
+        "type": "scritto",
+        "seats": 46
+    },
+    {
+        "exam_id": "E016",
+        "course_id": "C011",
+        "professor_id": "P002",
+        "date": "2025-05-19",
+        "time": "13:00",
+        "room_id": "R002",
+        "type": "scritto",
+        "seats": 80
+    },
+    {
+        "exam_id": "E017",
+        "course_id": "C016",
+        "professor_id": "P007",
+        "date": "2025-05-06",
+        "time": "16:00",
+        "room_id": "R002",
+        "type": "orale",
+        "seats": 111
+    },
+    {
+        "exam_id": "E018",
+        "course_id": "C017",
+        "professor_id": "P001",
+        "date": "2025-01-26",
+        "time": "12:00",
+        "room_id": "R009",
+        "type": "scritto",
+        "seats": 116
+    },
+    {
+        "exam_id": "E019",
+        "course_id": "C003",
+        "professor_id": "P001",
+        "date": "2025-03-19",
+        "time": "14:00",
+        "room_id": "R002",
+        "type": "scritto",
+        "seats": 72
+    },
+    {
+        "exam_id": "E020",
+        "course_id": "C017",
+        "professor_id": "P001",
+        "date": "2025-05-06",
+        "time": "16:00",
+        "room_id": "R008",
+        "type": "orale",
+        "seats": 105
+    },
+    {
+        "exam_id": "E021",
+        "course_id": "C001",
+        "professor_id": "P001",
+        "date": "2025-02-21",
+        "time": "11:00",
+        "room_id": "R007",
+        "type": "scritto",
+        "seats": 66
+    },
+    {
+        "exam_id": "E022",
+        "course_id": "C014",
+        "professor_id": "P003",
+        "date": "2025-05-20",
+        "time": "13:00",
+        "room_id": "R001",
+        "type": "orale",
+        "seats": 80
+    },
+    {
+        "exam_id": "E023",
+        "course_id": "C017",
+        "professor_id": "P001",
+        "date": "2025-04-03",
+        "time": "12:00",
+        "room_id": "R006",
+        "type": "orale",
+        "seats": 77
+    },
+    {
+        "exam_id": "E024",
+        "course_id": "C012",
+        "professor_id": "P010",
+        "date": "2025-02-19",
+        "time": "9:00",
+        "room_id": "R007",
+        "type": "scritto",
+        "seats": 46
+    },
+    {
+        "exam_id": "E025",
+        "course_id": "C017",
+        "professor_id": "P001",
+        "date": "2025-05-16",
+        "time": "12:00",
+        "room_id": "R010",
+        "type": "scritto",
+        "seats": 108
+    },
+    {
+        "exam_id": "E026",
+        "course_id": "C013",
+        "professor_id": "P005",
+        "date": "2025-02-17",
+        "time": "9:00",
+        "room_id": "R008",
+        "type": "scritto",
+        "seats": 74
+    },
+    {
+        "exam_id": "E027",
+        "course_id": "C013",
+        "professor_id": "P005",
+        "date": "2025-05-20",
+        "time": "10:00",
+        "room_id": "R010",
+        "type": "scritto",
+        "seats": 40
+    },
+    {
+        "exam_id": "E028",
+        "course_id": "C009",
+        "professor_id": "P008",
+        "date": "2025-01-21",
+        "time": "16:00",
+        "room_id": "R010",
+        "type": "scritto",
+        "seats": 53
+    },
+    {
+        "exam_id": "E029",
+        "course_id": "C002",
+        "professor_id": "P007",
+        "date": "2025-05-26",
+        "time": "11:00",
+        "room_id": "R004",
+        "type": "orale",
+        "seats": 45
+    },
+    {
+        "exam_id": "E030",
+        "course_id": "C020",
+        "professor_id": "P001",
+        "date": "2025-05-27",
+        "time": "13:00",
+        "room_id": "R010",
+        "type": "scritto",
+        "seats": 46
+    }
+]
