@@ -1,72 +1,72 @@
 [
     {
         "professor_id": "P001",
-        "first_name": "ProfName1",
-        "last_name": "ProfSurname1",
+        "first_name": "Giulia",
+        "last_name": "Marchetti",
         "department": "Lettere",
-        "email": "prof1@unisa.it"
+        "email": "g.marchetti@unisa.it"
     },
     {
         "professor_id": "P002",
-        "first_name": "ProfName2",
-        "last_name": "ProfSurname2",
+        "first_name": "Luca",
+        "last_name": "Ferraro",
         "department": "Informatica",
-        "email": "prof2@unisa.it"
+        "email": "l.ferraro@unisa.it"
     },
     {
         "professor_id": "P003",
-        "first_name": "ProfName3",
-        "last_name": "ProfSurname3",
+        "first_name": "Chiara",
+        "last_name": "De Santis",
         "department": "Informatica",
-        "email": "prof3@unisa.it"
+        "email": "c.desantis@unisa.it"
     },
     {
         "professor_id": "P004",
-        "first_name": "ProfName4",
-        "last_name": "ProfSurname4",
+        "first_name": "Paolo",
+        "last_name": "Ricci",
         "department": "Lettere",
-        "email": "prof4@unisa.it"
+        "email": "p.ricci@unisa.it"
     },
     {
         "professor_id": "P005",
-        "first_name": "ProfName5",
-        "last_name": "ProfSurname5",
+        "first_name": "Elena",
+        "last_name": "Vittori",
         "department": "Lettere",
-        "email": "prof5@unisa.it"
+        "email": "e.vittori@unisa.it"
     },
     {
         "professor_id": "P006",
-        "first_name": "ProfName6",
-        "last_name": "ProfSurname6",
+        "first_name": "Matteo",
+        "last_name": "Serra",
         "department": "Informatica",
-        "email": "prof6@unisa.it"
+        "email": "m.serra@unisa.it"
     },
     {
         "professor_id": "P007",
-        "first_name": "ProfName7",
-        "last_name": "ProfSurname7",
+        "first_name": "Federica",
+        "last_name": "Rinaldi",
         "department": "Economia",
-        "email": "prof7@unisa.it"
+        "email": "f.rinaldi@unisa.it"
     },
     {
         "professor_id": "P008",
-        "first_name": "ProfName8",
-        "last_name": "ProfSurname8",
+        "first_name": "Gianluca",
+        "last_name": "Moretti",
         "department": "Matematica",
-        "email": "prof8@unisa.it"
+        "email": "g.moretti@unisa.it"
     },
     {
         "professor_id": "P009",
-        "first_name": "ProfName9",
-        "last_name": "ProfSurname9",
+        "first_name": "Serena",
+        "last_name": "Pagano",
         "department": "Informatica",
-        "email": "prof9@unisa.it"
+        "email": "s.pagano@unisa.it"
     },
     {
         "professor_id": "P010",
-        "first_name": "ProfName10",
-        "last_name": "ProfSurname10",
+        "first_name": "Marco",
+        "last_name": "Barbieri",
         "department": "Economia",
-        "email": "prof10@unisa.it"
+        "email": "m.barbieri@unisa.it"
     }
 ]

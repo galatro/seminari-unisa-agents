@@ -3,60 +3,70 @@
         "room_id": "R001",
         "name": "Aula 1",
         "capacity": 87,
+        "floor": 2,
         "building": "Edificio C"
     },
     {
         "room_id": "R002",
         "name": "Aula 2",
         "capacity": 117,
+        "floor": 1,
         "building": "Edificio C"
     },
     {
         "room_id": "R003",
         "name": "Aula 3",
         "capacity": 102,
+        "floor": 3,
         "building": "Edificio B"
     },
     {
         "room_id": "R004",
         "name": "Aula 4",
         "capacity": 59,
+        "floor": 4,
         "building": "Edificio C"
     },
     {
         "room_id": "R005",
         "name": "Aula 5",
         "capacity": 91,
+        "floor": 1,
         "building": "Edificio C"
     },
     {
         "room_id": "R006",
         "name": "Aula 6",
         "capacity": 50,
+        "floor": 1,
         "building": "Edificio B"
     },
     {
         "room_id": "R007",
         "name": "Aula 7",
         "capacity": 56,
+        "floor": 2,
         "building": "Edificio B"
     },
     {
         "room_id": "R008",
         "name": "Aula 8",
         "capacity": 71,
+        "floor": 3,
         "building": "Edificio C"
     },
     {
         "room_id": "R009",
         "name": "Aula 9",
         "capacity": 72,
+        "floor": 2,
         "building": "Edificio A"
     },
     {
         "room_id": "R010",
         "name": "Aula 10",
         "capacity": 73,
+        "floor": 1,
         "building": "Edificio A"
     }
 ]
