@@ -3,6 +3,11 @@ from app.data import load_json, save_json
 
 router = APIRouter()
 
+@router.get("/all")
+def get_student_record():
+    students = load_json("students.json")
+    return students
+
 @router.get("/{student_id}")
 def get_student_record(student_id: str):
     students = load_json("students.json")
