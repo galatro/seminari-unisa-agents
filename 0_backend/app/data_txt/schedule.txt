@@ -1,0 +1,122 @@
+[
+    {
+        "course_id": "C001",
+        "day": "Lunedì",
+        "time": "10:00",
+        "room_id": "R004"
+    },
+    {
+        "course_id": "C002",
+        "day": "Martedì",
+        "time": "14:00",
+        "room_id": "R001"
+    },
+    {
+        "course_id": "C003",
+        "day": "Venerdì",
+        "time": "9:00",
+        "room_id": "R002"
+    },
+    {
+        "course_id": "C004",
+        "day": "Lunedì",
+        "time": "13:00",
+        "room_id": "R002"
+    },
+    {
+        "course_id": "C005",
+        "day": "Mercoledì",
+        "time": "15:00",
+        "room_id": "R008"
+    },
+    {
+        "course_id": "C006",
+        "day": "Venerdì",
+        "time": "12:00",
+        "room_id": "R006"
+    },
+    {
+        "course_id": "C007",
+        "day": "Lunedì",
+        "time": "10:00",
+        "room_id": "R008"
+    },
+    {
+        "course_id": "C008",
+        "day": "Mercoledì",
+        "time": "13:00",
+        "room_id": "R004"
+    },
+    {
+        "course_id": "C009",
+        "day": "Mercoledì",
+        "time": "14:00",
+        "room_id": "R005"
+    },
+    {
+        "course_id": "C010",
+        "day": "Martedì",
+        "time": "13:00",
+        "room_id": "R007"
+    },
+    {
+        "course_id": "C011",
+        "day": "Giovedì",
+        "time": "14:00",
+        "room_id": "R007"
+    },
+    {
+        "course_id": "C012",
+        "day": "Martedì",
+        "time": "8:00",
+        "room_id": "R001"
+    },
+    {
+        "course_id": "C013",
+        "day": "Mercoledì",
+        "time": "11:00",
+        "room_id": "R008"
+    },
+    {
+        "course_id": "C014",
+        "day": "Martedì",
+        "time": "10:00",
+        "room_id": "R009"
+    },
+    {
+        "course_id": "C015",
+        "day": "Giovedì",
+        "time": "9:00",
+        "room_id": "R001"
+    },
+    {
+        "course_id": "C016",
+        "day": "Lunedì",
+        "time": "8:00",
+        "room_id": "R004"
+    },
+    {
+        "course_id": "C017",
+        "day": "Lunedì",
+        "time": "8:00",
+        "room_id": "R004"
+    },
+    {
+        "course_id": "C018",
+        "day": "Martedì",
+        "time": "13:00",
+        "room_id": "R006"
+    },
+    {
+        "course_id": "C019",
+        "day": "Mercoledì",
+        "time": "8:00",
+        "room_id": "R002"
+    },
+    {
+        "course_id": "C020",
+        "day": "Venerdì",
+        "time": "10:00",
+        "room_id": "R001"
+    }
+]

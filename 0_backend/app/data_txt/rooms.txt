@@ -1,0 +1,62 @@
+[
+    {
+        "room_id": "R001",
+        "name": "Aula 1",
+        "capacity": 87,
+        "building": "Edificio C"
+    },
+    {
+        "room_id": "R002",
+        "name": "Aula 2",
+        "capacity": 117,
+        "building": "Edificio C"
+    },
+    {
+        "room_id": "R003",
+        "name": "Aula 3",
+        "capacity": 102,
+        "building": "Edificio B"
+    },
+    {
+        "room_id": "R004",
+        "name": "Aula 4",
+        "capacity": 59,
+        "building": "Edificio C"
+    },
+    {
+        "room_id": "R005",
+        "name": "Aula 5",
+        "capacity": 91,
+        "building": "Edificio C"
+    },
+    {
+        "room_id": "R006",
+        "name": "Aula 6",
+        "capacity": 50,
+        "building": "Edificio B"
+    },
+    {
+        "room_id": "R007",
+        "name": "Aula 7",
+        "capacity": 56,
+        "building": "Edificio B"
+    },
+    {
+        "room_id": "R008",
+        "name": "Aula 8",
+        "capacity": 71,
+        "building": "Edificio C"
+    },
+    {
+        "room_id": "R009",
+        "name": "Aula 9",
+        "capacity": 72,
+        "building": "Edificio A"
+    },
+    {
+        "room_id": "R010",
+        "name": "Aula 10",
+        "capacity": 73,
+        "building": "Edificio A"
+    }
+]

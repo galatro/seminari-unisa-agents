@@ -1,0 +1,142 @@
+[
+    {
+        "course_id": "C001",
+        "name": "Corso 1",
+        "cfu": 6,
+        "professor_id": "P001",
+        "area": "Reti"
+    },
+    {
+        "course_id": "C002",
+        "name": "Corso 2",
+        "cfu": 9,
+        "professor_id": "P007",
+        "area": "Programmazione"
+    },
+    {
+        "course_id": "C003",
+        "name": "Corso 3",
+        "cfu": 12,
+        "professor_id": "P001",
+        "area": "Programmazione"
+    },
+    {
+        "course_id": "C004",
+        "name": "Corso 4",
+        "cfu": 9,
+        "professor_id": "P009",
+        "area": "Programmazione"
+    },
+    {
+        "course_id": "C005",
+        "name": "Corso 5",
+        "cfu": 6,
+        "professor_id": "P010",
+        "area": "Programmazione"
+    },
+    {
+        "course_id": "C006",
+        "name": "Corso 6",
+        "cfu": 6,
+        "professor_id": "P007",
+        "area": "Matematica"
+    },
+    {
+        "course_id": "C007",
+        "name": "Corso 7",
+        "cfu": 12,
+        "professor_id": "P005",
+        "area": "AI"
+    },
+    {
+        "course_id": "C008",
+        "name": "Corso 8",
+        "cfu": 12,
+        "professor_id": "P009",
+        "area": "Programmazione"
+    },
+    {
+        "course_id": "C009",
+        "name": "Corso 9",
+        "cfu": 6,
+        "professor_id": "P008",
+        "area": "Reti"
+    },
+    {
+        "course_id": "C010",
+        "name": "Corso 10",
+        "cfu": 12,
+        "professor_id": "P008",
+        "area": "Matematica"
+    },
+    {
+        "course_id": "C011",
+        "name": "Corso 11",
+        "cfu": 6,
+        "professor_id": "P002",
+        "area": "AI"
+    },
+    {
+        "course_id": "C012",
+        "name": "Corso 12",
+        "cfu": 12,
+        "professor_id": "P010",
+        "area": "AI"
+    },
+    {
+        "course_id": "C013",
+        "name": "Corso 13",
+        "cfu": 9,
+        "professor_id": "P005",
+        "area": "Economia"
+    },
+    {
+        "course_id": "C014",
+        "name": "Corso 14",
+        "cfu": 9,
+        "professor_id": "P003",
+        "area": "Programmazione"
+    },
+    {
+        "course_id": "C015",
+        "name": "Corso 15",
+        "cfu": 9,
+        "professor_id": "P002",
+        "area": "AI"
+    },
+    {
+        "course_id": "C016",
+        "name": "Corso 16",
+        "cfu": 9,
+        "professor_id": "P007",
+        "area": "Matematica"
+    },
+    {
+        "course_id": "C017",
+        "name": "Corso 17",
+        "cfu": 9,
+        "professor_id": "P001",
+        "area": "Reti"
+    },
+    {
+        "course_id": "C018",
+        "name": "Corso 18",
+        "cfu": 6,
+        "professor_id": "P003",
+        "area": "Matematica"
+    },
+    {
+        "course_id": "C019",
+        "name": "Corso 19",
+        "cfu": 9,
+        "professor_id": "P002",
+        "area": "Economia"
+    },
+    {
+        "course_id": "C020",
+        "name": "Corso 20",
+        "cfu": 9,
+        "professor_id": "P001",
+        "area": "Economia"
+    }
+]

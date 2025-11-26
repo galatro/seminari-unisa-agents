@@ -1,0 +1,182 @@
+[
+    {
+        "student_id": "S001",
+        "exam_id": "E025",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "cancelled"
+    },
+    {
+        "student_id": "S001",
+        "exam_id": "E018",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "booked"
+    },
+    {
+        "student_id": "S001",
+        "exam_id": "E028",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "cancelled"
+    },
+    {
+        "student_id": "S002",
+        "exam_id": "E029",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "booked"
+    },
+    {
+        "student_id": "S002",
+        "exam_id": "E030",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "booked"
+    },
+    {
+        "student_id": "S002",
+        "exam_id": "E012",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "booked"
+    },
+    {
+        "student_id": "S003",
+        "exam_id": "E007",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "booked"
+    },
+    {
+        "student_id": "S003",
+        "exam_id": "E022",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "booked"
+    },
+    {
+        "student_id": "S003",
+        "exam_id": "E030",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "booked"
+    },
+    {
+        "student_id": "S004",
+        "exam_id": "E002",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "booked"
+    },
+    {
+        "student_id": "S004",
+        "exam_id": "E010",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "cancelled"
+    },
+    {
+        "student_id": "S004",
+        "exam_id": "E029",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "cancelled"
+    },
+    {
+        "student_id": "S005",
+        "exam_id": "E018",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "cancelled"
+    },
+    {
+        "student_id": "S005",
+        "exam_id": "E016",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "booked"
+    },
+    {
+        "student_id": "S005",
+        "exam_id": "E024",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "cancelled"
+    },
+    {
+        "student_id": "S006",
+        "exam_id": "E019",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "cancelled"
+    },
+    {
+        "student_id": "S006",
+        "exam_id": "E009",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "booked"
+    },
+    {
+        "student_id": "S006",
+        "exam_id": "E023",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "booked"
+    },
+    {
+        "student_id": "S007",
+        "exam_id": "E018",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "booked"
+    },
+    {
+        "student_id": "S007",
+        "exam_id": "E010",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "cancelled"
+    },
+    {
+        "student_id": "S007",
+        "exam_id": "E029",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "cancelled"
+    },
+    {
+        "student_id": "S008",
+        "exam_id": "E001",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "cancelled"
+    },
+    {
+        "student_id": "S008",
+        "exam_id": "E023",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "booked"
+    },
+    {
+        "student_id": "S008",
+        "exam_id": "E018",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "cancelled"
+    },
+    {
+        "student_id": "S009",
+        "exam_id": "E008",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "cancelled"
+    },
+    {
+        "student_id": "S009",
+        "exam_id": "E002",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "booked"
+    },
+    {
+        "student_id": "S009",
+        "exam_id": "E013",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "booked"
+    },
+    {
+        "student_id": "S010",
+        "exam_id": "E007",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "booked"
+    },
+    {
+        "student_id": "S010",
+        "exam_id": "E008",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "cancelled"
+    },
+    {
+        "student_id": "S010",
+        "exam_id": "E001",
+        "timestamp": "2025-01-10T10:00:00",
+        "status": "cancelled"
+    }
+]
